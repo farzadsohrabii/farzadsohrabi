@@ -271,7 +271,7 @@ export default function Skills() {
                             </div>
 
                             <Link
-                                href="#contact"
+                                href="#ContactSection"
                                 aria-label="Contact Farzad"
                                 className="group flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[#1A1A1A]/10 bg-[#1A1A1A] text-white shadow-md transition-all duration-300 hover:scale-105 hover:border-[#9E624A] hover:bg-[#9E624A] md:h-12 md:w-12"
                             >
